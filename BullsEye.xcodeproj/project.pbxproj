@@ -14,6 +14,7 @@
 		EA78D7D5251C02D800994E0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA78D7D4251C02D800994E0D /* Assets.xcassets */; };
 		EA78D7D8251C02D800994E0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA78D7D6251C02D800994E0D /* LaunchScreen.storyboard */; };
 		EA78D7E4251D596600994E0D /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D7E3251D596600994E0D /* AboutViewController.swift */; };
+		EA9D0B1D251EA64E00763D52 /* AboutDevViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D0B1C251EA64E00763D52 /* AboutDevViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EA78D7D7251C02D800994E0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA78D7D9251C02D800994E0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EA78D7E3251D596600994E0D /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		EA9D0B1C251EA64E00763D52 /* AboutDevViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutDevViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				EA78D7CD251C02D500994E0D /* SceneDelegate.swift */,
 				EA78D7CF251C02D500994E0D /* ViewController.swift */,
 				EA78D7E3251D596600994E0D /* AboutViewController.swift */,
+				EA9D0B1C251EA64E00763D52 /* AboutDevViewController.swift */,
 				EA78D7D1251C02D500994E0D /* Main.storyboard */,
 				EA78D7D4251C02D800994E0D /* Assets.xcassets */,
 				EA78D7D6251C02D800994E0D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA78D7D0251C02D500994E0D /* ViewController.swift in Sources */,
+				EA9D0B1D251EA64E00763D52 /* AboutDevViewController.swift in Sources */,
 				EA78D7CC251C02D500994E0D /* AppDelegate.swift in Sources */,
 				EA78D7E4251D596600994E0D /* AboutViewController.swift in Sources */,
 				EA78D7CE251C02D500994E0D /* SceneDelegate.swift in Sources */,
