@@ -14,6 +14,7 @@
 		EA78D7D5251C02D800994E0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA78D7D4251C02D800994E0D /* Assets.xcassets */; };
 		EA78D7D8251C02D800994E0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA78D7D6251C02D800994E0D /* LaunchScreen.storyboard */; };
 		EA78D7E4251D596600994E0D /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78D7E3251D596600994E0D /* AboutViewController.swift */; };
+		EA915BBA2522A68400EAC8F4 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = EA915BB92522A68400EAC8F4 /* BullsEye.html */; };
 		EA9D0B1D251EA64E00763D52 /* AboutDevViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D0B1C251EA64E00763D52 /* AboutDevViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		EA78D7D7251C02D800994E0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA78D7D9251C02D800994E0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EA78D7E3251D596600994E0D /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		EA915BB92522A68400EAC8F4 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = BullsEye.html; path = "5-06-web-views-and-developer-documentation-may2020/BullsEye.html"; sourceTree = SOURCE_ROOT; };
 		EA9D0B1C251EA64E00763D52 /* AboutDevViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutDevViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,6 +71,7 @@
 				EA78D7D4251C02D800994E0D /* Assets.xcassets */,
 				EA78D7D6251C02D800994E0D /* LaunchScreen.storyboard */,
 				EA78D7D9251C02D800994E0D /* Info.plist */,
+				EA915BB92522A68400EAC8F4 /* BullsEye.html */,
 			);
 			path = BullsEye;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA78D7D8251C02D800994E0D /* LaunchScreen.storyboard in Resources */,
+				EA915BBA2522A68400EAC8F4 /* BullsEye.html in Resources */,
 				EA78D7D5251C02D800994E0D /* Assets.xcassets in Resources */,
 				EA78D7D3251C02D500994E0D /* Main.storyboard in Resources */,
 			);
